@@ -1,6 +1,6 @@
 # Text Diff Checker
 
-**Live demo:** https://babug01.github.io/text-diff-checker/
+**Live demo:** https://text-diff-checker-beta.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/text-diff-checker/)
 
 Paste two blocks of text and see a line-level diff between them — a unified view (`+`/`-` lines,
 green/red) or a side-by-side view, plus a summary count of lines added, removed, and unchanged. The
